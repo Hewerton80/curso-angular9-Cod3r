@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta bic",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notbook",
+      "price": 1200.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung s10",
+      "price": 500.89
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<mat-card>
+    <mat-card-title>
+        Deseja deletar o produto {{product.name}}?
+    </mat-card-title>
+    <button mat-raised-button (click)="deleteProduct()" color="warn">
+        Sim, deletar!
+    </button>
+    <button mat-raised-button (click)="cancel()">
+        voltar
+    </button>
+</mat-card>
